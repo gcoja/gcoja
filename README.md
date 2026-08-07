@@ -245,7 +245,7 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-PERFIL">
+<a href="https://linkedin.com/in/Gabriel Henrique Coja de Souza">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7" alt="linkedin"/>
 </a>
 <a href="mailto:gabrielhcoja@hotmail.com">
@@ -257,7 +257,7 @@ MODE  : build → break → fix
 <a href="https://instagram.com/gabrielcoja">
   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="instagram"/>
 </a>
-<a href="https://discord.com/users/SEU-ID">
+<a href="https://discord.com/users/924833947324674048">
   <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord"/>
 </a>
 <a href="https://SEU-SITE.com">
