@@ -238,7 +238,6 @@ MODE  : build → break → fix
 
 <sub>`⚡ a cobra devora meus commits automaticamente a cada 12h`</sub>
 
-</div>
 
 <br/>
 
@@ -249,13 +248,13 @@ MODE  : build → break → fix
 <a href="https://linkedin.com/in/SEU-PERFIL">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7" alt="linkedin"/>
 </a>
-<a href="mailto:seu@email.com">
+<a href="mailto:gabrielhcoja@hotmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="email"/>
 </a>
-<a href="https://wa.me/5511999999999">
+<a href="https://wa.me/5511948055916">
   <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="whatsapp"/>
 </a>
-<a href="https://instagram.com/SEU-PERFIL">
+<a href="https://instagram.com/gabrielcoja">
   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="instagram"/>
 </a>
 <a href="https://discord.com/users/SEU-ID">
