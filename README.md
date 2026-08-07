@@ -1,7 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  ⚡ PROFILE README — SYSTEM v2.0                                              ║
-║  Substitua todas as ocorrências de SEU-USUARIO pelo seu username do GitHub.   ║
+║  Substitua todas as ocorrências de gcoja pelo seu username do GitHub.   ║
 ║  Substitua também os links de redes sociais e os nomes dos repositórios.      ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -14,13 +14,13 @@
 
 <br/>
 
-<a href="https://github.com/SEU-USUARIO">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=CONEX%C3%95ES&color=00FFF7&style=for-the-badge" alt="views"/>
+<a href="https://github.com/gcoja">
+  <img src="https://komarev.com/ghpvc/?username=gcoja&label=CONEX%C3%95ES&color=00FFF7&style=for-the-badge" alt="views"/>
 </a>
-<a href="https://github.com/SEU-USUARIO?tab=followers">
-  <img src="https://img.shields.io/github/followers/SEU-USUARIO?label=SEGUIDORES&style=for-the-badge&color=FF2E97&labelColor=0D1117" alt="followers"/>
+<a href="https://github.com/gcoja?tab=followers">
+  <img src="https://img.shields.io/github/followers/gcoja?label=SEGUIDORES&style=for-the-badge&color=FF2E97&labelColor=0D1117" alt="followers"/>
 </a>
-<a href="https://github.com/SEU-USUARIO?tab=repositories">
+<a href="https://github.com/gcoja?tab=repositories">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFF7?style=for-the-badge&labelColor=0D1117" alt="status"/>
 </a>
 
@@ -142,23 +142,23 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<a href="https://github.com/SEU-USUARIO/REPO-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-1&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 1"/>
+<a href="https://github.com/gcoja/REPO-1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-1&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 1"/>
 </a>
-<a href="https://github.com/SEU-USUARIO/REPO-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-2&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 2"/>
+<a href="https://github.com/gcoja/REPO-2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-2&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 2"/>
 </a>
 
-<a href="https://github.com/SEU-USUARIO/REPO-3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-3&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 3"/>
+<a href="https://github.com/gcoja/REPO-3">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-3&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 3"/>
 </a>
-<a href="https://github.com/SEU-USUARIO/REPO-4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=REPO-4&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 4"/>
+<a href="https://github.com/gcoja/REPO-4">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-4&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 4"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/SEU-USUARIO?tab=repositories">
+<a href="https://github.com/gcoja?tab=repositories">
   <img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSIT%C3%93RIOS-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" alt="all repos"/>
 </a>
 
@@ -199,16 +199,16 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&rank_icon=github" alt="stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&border_color=1F2937" alt="top langs"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gcoja&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&rank_icon=github" alt="stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoja&layout=compact&langs_count=8&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&border_color=1F2937" alt="top langs"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&border=1F2937&border_radius=12&stroke=1F2937&ring=FF2E97&fire=FF2E97&currStreakNum=E6F7FF&currStreakLabel=00FFF7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=gcoja&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&border=1F2937&border_radius=12&stroke=1F2937&ring=FF2E97&fire=FF2E97&currStreakNum=E6F7FF&currStreakLabel=00FFF7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&custom_title=GR%C3%81FICO%20DE%20ATIVIDADE%20NEURAL&bg_color=0D1117&color=00FFF7&title_color=00FFF7&line=FF2E97&point=E6F7FF&area=true&area_color=8B2FE8&hide_border=false&border_color=1F2937&radius=12" alt="activity graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gcoja&custom_title=GR%C3%81FICO%20DE%20ATIVIDADE%20NEURAL&bg_color=0D1117&color=00FFF7&title_color=00FFF7&line=FF2E97&point=E6F7FF&area=true&area_color=8B2FE8&hide_border=false&border_color=1F2937&radius=12" alt="activity graph"/>
 
 </div>
 
@@ -218,7 +218,7 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" alt="trophies"/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=gcoja&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" alt="trophies"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF7,50:8B2FE8,100:FF2E97&height=2&section=header" width="100%" alt="divider"/>
 
@@ -231,9 +231,9 @@ MODE  : build → break → fix
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gcoja/gcoja/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gcoja/gcoja/output/snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/gcoja/gcoja/output/snake.svg" width="100%"/>
 </picture>
 
 <sub>`⚡ a cobra devora meus commits automaticamente a cada 12h`</sub>
