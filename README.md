@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,40:1F6FEB,75:8B2FE8,100:FF2E97&height=220&section=header&text=GABRIEL&fontSize=72&fontColor=E6F7FF&fontAlignY=32&desc=SYSTEM%20ONLINE%20//%20READY%20FOR%20INPUT&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,40:1F6FEB,75:8B2FE8,100:FF2E97&height=220&section=header&text=GABRIEL%20COJA&fontSize=58&fontColor=E6F7FF&fontAlignY=32&desc=SYSTEM%20ONLINE%20//%20READY%20FOR%20INPUT&descAlignY=53&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00FFF7&center=true&vCenter=true&random=false&width=800&height=80&lines=%3E+Inicializando+interface+neural...;%3E+Bem-vindo+ao+meu+espa%C3%A7o+digital+%E2%9A%A1;%3E+Full+Stack+Developer+%7C+Node.js+%7C+Automa%C3%A7%C3%A3o;%3E+Transformando+caf%C3%A9+em+c%C3%B3digo+desde+sempre" alt="typing"/>
 
@@ -140,23 +140,81 @@ MODE  : build → break → fix
 
 ## `04.` &nbsp; ⟨ PROJETOS EM DESTAQUE ⟩
 
+<!-- Cards manuais: não dependem de serviço externo, nunca quebram.
+     Edite título, descrição, badges e link de cada um. -->
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 &nbsp;WhatsApp Engine</h3>
+<p align="center">Motor de automação de mensageria construído sobre Baileys, com resolução de JID e fila de envio.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FFF7"/>
+  <img src="https://img.shields.io/badge/Baileys-0D1117?style=flat-square&logo=whatsapp&logoColor=25D366"/>
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=8B2FE8"/>
+</p>
+<p align="center">
+  <a href="https://github.com/gcoja/REPO-1">
+    <img src="https://img.shields.io/badge/ACESSAR-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7"/>
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔗 &nbsp;ERP Integration API</h3>
+<p align="center">Camada de integração entre plataformas contábeis, com normalização de payload e retry automático.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=8B2FE8"/>
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=00FFF7"/>
+  <img src="https://img.shields.io/badge/SQL_Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=FF2E97"/>
+</p>
+<p align="center">
+  <a href="https://github.com/gcoja/REPO-2">
+    <img src="https://img.shields.io/badge/ACESSAR-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7"/>
+  </a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 &nbsp;Icon Kit Generator</h3>
+<p align="center">Gera kits completos de favicon e ícones — PNG multi-resolução, .ico, WebP, SVG e Apple touch.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Sharp-0D1117?style=flat-square&logo=node.js&logoColor=00FFF7"/>
+  <img src="https://img.shields.io/badge/CLI-0D1117?style=flat-square&logo=gnubash&logoColor=FF2E97"/>
+</p>
+<p align="center">
+  <a href="https://github.com/gcoja/REPO-3">
+    <img src="https://img.shields.io/badge/ACESSAR-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7"/>
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 &nbsp;Data Reconciler</h3>
+<p align="center">Reconciliação de planilhas com matching difuso de registros e relatório de pendências.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FFF7"/>
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=8B2FE8"/>
+  <img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=21A366"/>
+</p>
+<p align="center">
+  <a href="https://github.com/gcoja/REPO-4">
+    <img src="https://img.shields.io/badge/ACESSAR-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://github.com/gcoja/REPO-1">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gcoja&theme=github_dark"/>
-</a>
-<a href="https://github.com/gcoja/REPO-2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-2&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 2"/>
-</a>
-
-<a href="https://github.com/gcoja/REPO-3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-3&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 3"/>
-</a>
-<a href="https://github.com/gcoja/REPO-4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-4&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 4"/>
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/gcoja?tab=repositories">
   <img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSIT%C3%93RIOS-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7" alt="all repos"/>
@@ -199,8 +257,15 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gcoja&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&rank_icon=github" alt="stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoja&layout=compact&langs_count=8&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&border_color=1F2937" alt="top langs"/>
+<!-- github-profile-summary-cards: instância independente e estável.
+     Temas disponíveis: github_dark, nord_dark, radical, transparent -->
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gcoja&theme=github_dark" alt="perfil"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gcoja&theme=github_dark" alt="stats"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gcoja&theme=github_dark" alt="linguagens por commit"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gcoja&theme=github_dark" alt="linguagens por repo"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gcoja&theme=github_dark&utcOffset=-3" alt="horario produtivo"/>
 
 <br/><br/>
 
@@ -238,6 +303,7 @@ MODE  : build → break → fix
 
 <sub>`⚡ a cobra devora meus commits automaticamente a cada 12h`</sub>
 
+</div>
 
 <br/>
 
