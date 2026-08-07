@@ -143,7 +143,7 @@ MODE  : build → break → fix
 <div align="center">
 
 <a href="https://github.com/gcoja/REPO-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-1&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 1"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gcoja&theme=github_dark"/>
 </a>
 <a href="https://github.com/gcoja/REPO-2">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gcoja&repo=REPO-2&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&icon_color=FF2E97&border_color=1F2937&border_radius=12" alt="projeto 2"/>
