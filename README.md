@@ -345,7 +345,7 @@ MODE  : build → break → fix
 <a href="https://discord.com/users/924833947324674048">
   <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord"/>
 </a>
-<a href="https://SEU-SITE.com">
+<a href="https:/contamac.com.br">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B2FE8" alt="portfolio"/>
 </a>
 
