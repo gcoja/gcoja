@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,40:1F6FEB,75:8B2FE8,100:FF2E97&height=220&section=header&text=GABRIEL&fontSize=72&fontColor=E6F7FF&fontAlignY=32&desc=SYSTEM%20ONLINE%20//%20READY%20FOR%20INPUT&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,40:1F6FEB,75:8B2FE8,100:FF2E97&height=220&section=header&text=GABRIEL COJA&fontSize=72&fontColor=E6F7FF&fontAlignY=32&desc=SYSTEM%20ONLINE%20//%20READY%20FOR%20INPUT&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00FFF7&center=true&vCenter=true&random=false&width=800&height=80&lines=%3E+Inicializando+interface+neural...;%3E+Bem-vindo+ao+meu+espa%C3%A7o+digital+%E2%9A%A1;%3E+Full+Stack+Developer+%7C+Node.js+%7C+Automa%C3%A7%C3%A3o;%3E+Transformando+caf%C3%A9+em+c%C3%B3digo+desde+sempre" alt="typing"/>
 
