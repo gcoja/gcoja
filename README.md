@@ -283,7 +283,15 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=gcoja&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" alt="trophies"/>
+<!-- A instância oficial (github-profile-trophy.vercel.app) vive sobrecarregada.
+     O próprio projeto mantém mirrors de voluntários para balanceamento.
+     Se este cair, troque o domínio por um dos alternativos:
+       https://github-profile-trophy-fork-two.vercel.app
+       https://github-profile-trophy-winning.vercel.app
+       https://github-profile-trophy-kannan.vercel.app
+       https://github-trophies.vercel.app  (fork com mais troféus) -->
+
+<img width="98%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=gcoja&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=6&margin-h=6" alt="trophies"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF7,50:8B2FE8,100:FF2E97&height=2&section=header" width="100%" alt="divider"/>
 
@@ -294,6 +302,11 @@ MODE  : build → break → fix
 ## `08.` &nbsp; ⟨ CONTRIBUTION SNAKE ⟩
 
 <div align="center">
+
+<!-- ⚠️ ESTA IMAGEM SÓ APARECE DEPOIS QUE A ACTION RODAR PELO MENOS UMA VEZ.
+     O arquivo snake.svg é gerado pelo workflow e commitado na branch "output".
+     Antes disso a URL retorna 404 e o GitHub mostra imagem quebrada — é esperado.
+     Passos: Actions → "Generate Snake Animation" → Run workflow. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gcoja/gcoja/output/snake-dark.svg"/>
