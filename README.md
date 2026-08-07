@@ -304,9 +304,15 @@ MODE  : build → break → fix
 <div align="center">
 
 <!-- ⚠️ ESTA IMAGEM SÓ APARECE DEPOIS QUE A ACTION RODAR PELO MENOS UMA VEZ.
-     O arquivo snake.svg é gerado pelo workflow e commitado na branch "output".
-     Antes disso a URL retorna 404 e o GitHub mostra imagem quebrada — é esperado.
-     Passos: Actions → "Generate Snake Animation" → Run workflow. -->
+     O workflow completo está no comentário no FINAL deste arquivo.
+     Passos: Actions → "Generate Snake Animation" → Run workflow.
+
+     ALTERNATIVA SEM ACTION: se preferir não usar workflow nenhum, apague
+     o bloco <picture> abaixo e use esta linha, que funciona só com markdown:
+
+     <img width="98%" src="https://ghchart.rshah.org/00FFF7/gcoja" alt="grafico de contribuicoes"/>
+
+     Ela renderiza sua matriz de contribuições em ciano, sem animação. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gcoja/gcoja/output/snake-dark.svg"/>
@@ -368,3 +374,63 @@ MODE  : build → break → fix
 <sub>⭐ Se algum projeto te ajudou, deixe uma estrela — isso alimenta o sistema.</sub>
 
 </div>
+
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  📦  ANEXO — WORKFLOW DA SNAKE ANIMATION                                      ║
+║                                                                              ║
+║  Este bloco é um comentário HTML: NÃO aparece no seu perfil renderizado.      ║
+║  Ele está aqui só para você não precisar carregar um segundo arquivo.         ║
+║                                                                              ║
+║  COMO USAR:                                                                  ║
+║  1. No repositório gcoja/gcoja, crie o arquivo:                   ║
+║        .github/workflows/snake.yml                                           ║
+║  2. Copie TODO o conteúdo entre as linhas ">>> INICIO" e ">>> FIM" abaixo     ║
+║     e cole nesse arquivo (sem as barras da moldura).                          ║
+║  3. Settings → Actions → General → Workflow permissions                      ║
+║        marque "Read and write permissions" e salve.                          ║
+║  4. Actions → "Generate Snake Animation" → Run workflow.                      ║
+║                                                                              ║
+║  Não dá para rodar o workflow a partir de um .md: o GitHub Actions só         ║
+║  reconhece arquivos .yml/.yaml dentro de .github/workflows/.                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+>>> INICIO — .github/workflows/snake.yml
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=orange&color_dots=#1F2937,#8B2FE8,#00FFF7,#FF2E97,#E6F7FF
+            dist/snake-dark.svg?palette=github-dark&color_snake=#00FFF7&color_dots=#161B22,#1F6FEB,#8B2FE8,#FF2E97,#00FFF7
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+>>> FIM
+-->
