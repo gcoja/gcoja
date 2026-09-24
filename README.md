@@ -45,13 +45,13 @@ const gabriel = {
   runtime   : "Node.js",
   learning  : ["TypeScript", "Arquitetura Limpa"],
 
-  currentProject : "WhatsApp Automation Engine",
+  currentProject : "Bot lançador de Notas Fiscais",
 
   philosophy : () => (
     "Código limpo não é escrito, é reescrito."
   ),
 
-  funFact : "Debugo melhor às 2h da manhã 🌙"
+  funFact : "Não gosto de café"
 };
 
 console.log(gabriel.philosophy());
@@ -68,7 +68,7 @@ SYSTEM_DIAGNOSTICS:
   ├─ frontend...: [███████░░░] 70%
   ├─ database...: [████████░░] 78%
   ├─ devops.....: [█████░░░░░] 55%
-  └─ coffee.....: [██████████] ∞
+  └─ Claude.....: [██████████] ∞
 
 STATUS: ⚡ operacional
 UPTIME: 24/7
