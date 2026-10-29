@@ -272,13 +272,6 @@ MODE  : build → break → fix
 
 <img width="80%" src="https://streak-stats.demolab.com?user=gcoja&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&border=1F2937&border_radius=12&stroke=1F2937&ring=FF2E97&fire=FF2E97&currStreakNum=E6F7FF&currStreakLabel=00FFF7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak"/>
 
-<br/><br/>
-
-<!-- Gráfico de atividade. Este serviço às vezes fica lento/sobrecarregado e
-     pode demorar para renderizar (ou cair por alguns minutos). Se ficar
-     quebrado com frequência, é limitação do serviço, não do seu perfil. -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gcoja&custom_title=GR%C3%81FICO%20DE%20ATIVIDADE%20NEURAL&bg_color=0D1117&color=00FFF7&title_color=00FFF7&line=FF2E97&point=E6F7FF&area=true&area_color=8B2FE8&hide_border=false&border_color=1F2937&radius=12" alt="activity graph"/>
-
 </div>
 
 <br/>
