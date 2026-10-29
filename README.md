@@ -1,8 +1,9 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  ⚡ PROFILE README — SYSTEM v2.0                                              ║
-║  Substitua todas as ocorrências de gcoja pelo seu username do GitHub.   ║
-║  Substitua também os links de redes sociais e os nomes dos repositórios.      ║
+║  IMPORTANTE: o username usado em TODO o arquivo é "gcoja".                     ║
+║  Se este NÃO for exatamente o seu @ do GitHub, troque todas as ocorrências —   ║
+║  e lembre que o repositório PRECISA ter o mesmo nome do usuário (gcoja/gcoja). ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -273,6 +274,9 @@ MODE  : build → break → fix
 
 <br/><br/>
 
+<!-- Gráfico de atividade. Este serviço às vezes fica lento/sobrecarregado e
+     pode demorar para renderizar (ou cair por alguns minutos). Se ficar
+     quebrado com frequência, é limitação do serviço, não do seu perfil. -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gcoja&custom_title=GR%C3%81FICO%20DE%20ATIVIDADE%20NEURAL&bg_color=0D1117&color=00FFF7&title_color=00FFF7&line=FF2E97&point=E6F7FF&area=true&area_color=8B2FE8&hide_border=false&border_color=1F2937&radius=12" alt="activity graph"/>
 
 </div>
@@ -283,15 +287,12 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<!-- A instância oficial (github-profile-trophy.vercel.app) vive sobrecarregada.
-     O próprio projeto mantém mirrors de voluntários para balanceamento.
-     Se este cair, troque o domínio por um dos alternativos:
-       https://github-profile-trophy-fork-two.vercel.app
-       https://github-profile-trophy-winning.vercel.app
-       https://github-profile-trophy-kannan.vercel.app
-       https://github-trophies.vercel.app  (fork com mais troféus) -->
+<!-- Domínio OFICIAL do github-profile-trophy. Use sempre este.
+     (A versão anterior apontava para um "mirror" aleatório em um subdomínio
+     da Vercel que não é mantido pelo projeto — fontes assim são instáveis e
+     podem registrar quem visita seu perfil. Evite mirrors de terceiros.) -->
 
-<img width="98%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=gcoja&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=6&margin-h=6" alt="trophies"/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=gcoja&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&margin-w=6&margin-h=6" alt="trophies"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF7,50:8B2FE8,100:FF2E97&height=2&section=header" width="100%" alt="divider"/>
 
@@ -303,22 +304,26 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<!-- ⚠️ ESTA IMAGEM SÓ APARECE DEPOIS QUE A ACTION RODAR PELO MENOS UMA VEZ.
-     O workflow completo está no comentário no FINAL deste arquivo.
-     Passos: Actions → "Generate Snake Animation" → Run workflow.
+<!-- Esta versão (ghchart) FUNCIONA IMEDIATAMENTE: é só markdown, não precisa de
+     GitHub Action nem da branch "output". Mostra sua matriz de contribuições
+     em ciano (estática, sem animação).
 
-     ALTERNATIVA SEM ACTION: se preferir não usar workflow nenhum, apague
-     o bloco <picture> abaixo e use esta linha, que funciona só com markdown:
+     Se quiser a COBRA ANIMADA de verdade:
+       1. Crie .github/workflows/snake.yml (workflow no comentário no fim do arquivo)
+       2. Settings → Actions → General → Workflow permissions → "Read and write"
+       3. Actions → "Generate Snake Animation" → Run workflow (isso cria a branch output)
+       4. Troque o <img> abaixo pelo bloco <picture> que está logo em seguida. -->
 
-     <img width="98%" src="https://ghchart.rshah.org/00FFF7/gcoja" alt="grafico de contribuicoes"/>
+<img width="98%" src="https://ghchart.rshah.org/00FFF7/gcoja" alt="grafico de contribuicoes"/>
 
-     Ela renderiza sua matriz de contribuições em ciano, sem animação. -->
-
+<!-- COBRA ANIMADA — descomente este bloco (e comente/remova o <img> acima)
+     SOMENTE depois que a Action tiver rodado pelo menos uma vez:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gcoja/gcoja/output/snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gcoja/gcoja/output/snake.svg"/>
   <img alt="snake animation" src="https://raw.githubusercontent.com/gcoja/gcoja/output/snake.svg" width="100%"/>
 </picture>
+-->
 
 <sub>`⚡ a cobra devora meus commits automaticamente a cada 12h`</sub>
 
@@ -330,7 +335,10 @@ MODE  : build → break → fix
 
 <div align="center">
 
-<a href="https://linkedin.com/in/Gabriel Henrique Coja de Souza">
+<!-- LinkedIn: a URL anterior tinha ESPAÇOS (seu nome completo), o que quebra o link.
+     Troque "gabriel-coja" abaixo pelo slug real do seu perfil — aquele que
+     aparece em linkedin.com/in/SEU-SLUG quando você abre seu próprio perfil. -->
+<a href="https://www.linkedin.com/in/gabriel-coja">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF7" alt="linkedin"/>
 </a>
 <a href="mailto:gabrielhcoja@hotmail.com">
@@ -345,7 +353,7 @@ MODE  : build → break → fix
 <a href="https://discord.com/users/924833947324674048">
   <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord"/>
 </a>
-<a href="https:/contamac.com.br">
+<a href="https://contamac.com.br">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B2FE8" alt="portfolio"/>
 </a>
 
@@ -383,13 +391,14 @@ MODE  : build → break → fix
 ║  Ele está aqui só para você não precisar carregar um segundo arquivo.         ║
 ║                                                                              ║
 ║  COMO USAR:                                                                  ║
-║  1. No repositório gcoja/gcoja, crie o arquivo:                   ║
+║  1. No repositório gcoja/gcoja, crie o arquivo:                              ║
 ║        .github/workflows/snake.yml                                           ║
 ║  2. Copie TODO o conteúdo entre as linhas ">>> INICIO" e ">>> FIM" abaixo     ║
 ║     e cole nesse arquivo (sem as barras da moldura).                          ║
 ║  3. Settings → Actions → General → Workflow permissions                      ║
 ║        marque "Read and write permissions" e salve.                          ║
 ║  4. Actions → "Generate Snake Animation" → Run workflow.                      ║
+║  5. Volte na seção 08 e ative o bloco <picture> da cobra animada.             ║
 ║                                                                              ║
 ║  Não dá para rodar o workflow a partir de um .md: o GitHub Actions só         ║
 ║  reconhece arquivos .yml/.yaml dentro de .github/workflows/.                  ║
